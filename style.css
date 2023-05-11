@@ -1,0 +1,66 @@
+body{
+    background-image:url("back.jpg");
+    background-size:cover ;
+    background-repeat: no-repeat;
+    height:100vh;
+}
+.N1{
+    font-size:larger;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration:3px underline;
+    color:rgb(4, 251, 255);
+    text-shadow: 2px 1px 3px;
+}
+.p2{
+    height: 100%;
+    width:60%;
+    border:5px ridge rgb(4, 251, 255);
+    background-color: rgba(8, 203, 86, 0.466);
+    border-radius: 20px;
+    margin-top:10%;
+    margin-left:auto;
+    margin-right: auto; 
+    padding-left: 50px;
+    padding-right: 50px; 
+}
+.p3{
+    margin-top: 2%;
+    margin-left:5%;
+    margin-right: 5%;
+    border: 5px;
+    text-decoration:5px underline;
+}
+input{
+    float:right;
+    border-radius: 10px;
+    border:3px ridge black;
+    padding-left:100px;    
+    padding-right:100px;
+}
+lable{
+    text-decoration: underline;
+    text-shadow: 2px 3px 5px;
+}
+.name8{
+    margin:auto;
+    width: 20%;
+    text-align: center;
+    border: 5px solid;
+    border-radius: 20px;
+    background-color: rgba(8, 203, 86, 0.466);
+   
+}
+.name9,.name10{
+    border-bottom: 10px;
+    text-shadow: 2px 2px 5px;
+    padding: 5px;
+}
+.name9{
+    background-color:green;
+    border-radius:5px;
+}
+.name10{
+    background-color: red;
+    border-radius:5px;
+}
